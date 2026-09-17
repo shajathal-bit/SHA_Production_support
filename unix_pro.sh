@@ -8,3 +8,5 @@ echo "Addition a and b : $c"
 d=`expr $a - $b`
 
 echo "Suntraction of a and b : $d"
+
+echo "Thank you"
